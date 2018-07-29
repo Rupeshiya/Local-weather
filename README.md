@@ -3,8 +3,10 @@ This gives you the idea of local weather.
 
 
 ## :cloud: :sunny: :umbrella:
-Live demo at:-
+To test this:
+```
+  fork and clone the repo and execute index.html.
 
-   https://rupeshiya.github.io/Local-weather/
+```
 
 ## Made by :heart: :headphones: rupeshiya
